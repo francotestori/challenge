@@ -38,6 +38,12 @@ docker compose up --build -d
 ```
 Afterwards you might start the Spring Boot application which will be listening at **localhost:8080**.
 
+Once started you can call the message service like this:
+```
+curl --location --request GET 'localhost:8080/message?name={name-parameter}'
+```
+If no name parameter is provided, a default name will be assign for your fuck off quote.
+
 ### References
 
 - [foaas](https://www.foaas.com/)
