@@ -40,6 +40,6 @@ Afterwards you might start the Spring Boot application which will be listening a
 
 ### References
 
-[foaas](https://www.foaas.com/)
-[redis rate limiter](https://developer.redis.com/howtos/ratelimiting/#using-java)
-[lettuce redis client](https://redis.com/blog/jedis-vs-lettuce-an-exploration/)
+- [foaas](https://www.foaas.com/)
+- [redis rate limiter](https://developer.redis.com/howtos/ratelimiting/#using-java)
+- [lettuce redis client](https://redis.com/blog/jedis-vs-lettuce-an-exploration/)
